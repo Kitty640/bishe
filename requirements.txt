@@ -1,0 +1,4 @@
+gmssl==3.2.2
+jieba==0.42.1
+scikit-learn==1.5.1
+PyQt5==5.15.10
